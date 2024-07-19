@@ -1,0 +1,11 @@
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\serdar\source\repos\SocialMediaApp\DTO\obj\Debug\net8.0\ref\DTO.dll

@@ -1,0 +1,12 @@
+C:\Users\serdar\source\repos\SocialMediaApp\entity\bin\Debug\net8.0\entity.deps.json
+C:\Users\serdar\source\repos\SocialMediaApp\entity\bin\Debug\net8.0\entity.dll
+C:\Users\serdar\source\repos\SocialMediaApp\entity\bin\Debug\net8.0\entity.pdb
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.csproj.AssemblyReference.cache
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.AssemblyInfoInputs.cache
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.AssemblyInfo.cs
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.csproj.CoreCompileInputs.cache
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.dll
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\refint\entity.dll
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\entity.pdb
+C:\Users\serdar\source\repos\SocialMediaApp\entity\obj\Debug\net8.0\ref\entity.dll
